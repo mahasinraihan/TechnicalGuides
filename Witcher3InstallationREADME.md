@@ -2,11 +2,11 @@
 
 ![image](https://user-images.githubusercontent.com/103365226/207497210-6774c1ad-af7b-4e89-b98f-5020f8b1ac78.png)
 
-Introduction
+**Introduction**
 
 This document is supplied as a guide to show how to install The Witcher 3: Wild Hunt in detail. It lists all the requirements to run the game and instructions for installing the product.
 
-Minimum System Requirements
+**Minimum System Requirements**
 
 This section lists all the minimum system requirements to run The Witcher 3: Wild Hunt. Keep in mind that the game uses both GPU and CPU intensively, and graphics cards and processors that do not meet the minimum requirements often cause game performance issues.
 
@@ -16,7 +16,7 @@ This section lists all the minimum system requirements to run The Witcher 3: Wil
 -   RAM : 6GB
 -   Disk space : 40 GB
 
-Installation Guide
+**Installation Guide**
 
 This Section explains how to install the Witcher 3 game on your Windows PC
 
