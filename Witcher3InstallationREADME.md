@@ -1,6 +1,6 @@
 **The Witcher 3: Wild Hunt Installation Guide**
 
-![](media/cca79649a9875503529cfd0696c44e52.png)
+![image](https://user-images.githubusercontent.com/103365226/207497210-6774c1ad-af7b-4e89-b98f-5020f8b1ac78.png)
 
 Introduction
 
@@ -23,17 +23,19 @@ This Section explains how to install the Witcher 3 game on your Windows PC
 1.  Insert The Witcher 3: Wild Hunt Disc into the DVD-ROM drive
 2.  Navigate to The Witcher 3: Wild Hunt disc and double-click the “setup.exe” file to run the installer
 
-![](media/82f9672b1d62437f175c0dff20a7c26e.png)
+![image](https://user-images.githubusercontent.com/103365226/207497237-788b7b23-a1fc-415c-9c4e-754a1bb9733f.png)
+
 
 3.  The game installer window will pop up. Select the preferred language and accept the End User License Agreement.
 -   The language selected will be applied during installation and in-game. You can change the language after installation via the in-game settings menu.
 
-![](media/7eb45d73e75699840f565db42b8798d9.png)![](media/a91fed9ed2d50a7bf6e063319e2f8f80.png)
+![image](https://user-images.githubusercontent.com/103365226/207497256-d955e0ae-7979-4192-b284-b62c06c31cb1.png)
+![image](https://user-images.githubusercontent.com/103365226/207497270-8af89a12-358f-4c53-9b45-77f8e7039c89.png)
 
 4.  Choose the directory for the installed game then press “Install”.
 
-![](media/45c6a4709e7773fc1b65e737adbf7027.png)
+![image](https://user-images.githubusercontent.com/103365226/207497278-08a78f93-6502-4419-8690-2f74edbfc369.png)
 
 5.  When the installation process is finished, you can launch the game by clicking the shortcut on your desktop.
 
-![](media/d937cebed8a4b22264ece13435550cc9.png)
+![image](https://user-images.githubusercontent.com/103365226/207497312-fa8eeae3-a924-496a-b361-81a00b7a1b82.png)
